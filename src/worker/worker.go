@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/nkanaev/yarr/src/storage"
+	"github.com/hades300/yarr/src/storage"
 )
 
 const NUM_WORKERS = 4

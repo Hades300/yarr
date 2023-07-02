@@ -2,7 +2,7 @@
 
 Install `Go >= 1.16` and `GCC`. Get the source code:
 
-    git clone https://github.com/nkanaev/yarr.git
+    git clone https://github.com/hades300/yarr.git
 
 Then run one of the corresponding commands:
 

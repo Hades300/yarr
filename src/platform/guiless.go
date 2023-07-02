@@ -4,7 +4,7 @@
 package platform
 
 import (
-	"github.com/nkanaev/yarr/src/server"
+	"github.com/hades300/yarr/src/server"
 )
 
 func Start(s *server.Server) {

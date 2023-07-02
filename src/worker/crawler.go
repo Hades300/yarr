@@ -11,9 +11,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/nkanaev/yarr/src/content/scraper"
-	"github.com/nkanaev/yarr/src/parser"
-	"github.com/nkanaev/yarr/src/storage"
+	"github.com/hades300/yarr/src/content/scraper"
+	"github.com/hades300/yarr/src/parser"
+	"github.com/hades300/yarr/src/storage"
 	"golang.org/x/net/html/charset"
 )
 

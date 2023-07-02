@@ -10,9 +10,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/nkanaev/yarr/src/platform"
-	"github.com/nkanaev/yarr/src/server"
-	"github.com/nkanaev/yarr/src/storage"
+	"github.com/hades300/yarr/src/platform"
+	"github.com/hades300/yarr/src/server"
+	"github.com/hades300/yarr/src/storage"
 )
 
 var Version string = "0.0"

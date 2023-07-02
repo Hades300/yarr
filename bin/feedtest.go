@@ -9,7 +9,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/nkanaev/yarr/src/parser"
+	"github.com/hades300/yarr/src/parser"
 )
 
 func main() {

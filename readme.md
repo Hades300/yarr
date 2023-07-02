@@ -12,24 +12,7 @@ It is written in Go with the frontend in Vue.js. The storage is backed by SQLite
 The latest prebuilt binaries for Linux/MacOS/Windows are available
 [here](https://github.com/nkanaev/yarr/releases/latest).
 
-### macos
 
-Download `yarr-*-macos64.zip`, unzip it, place `yarr.app` in `/Applications` folder, [open the app][macos-open], click the anchor menu bar icon, select "Open".
+### cli
 
-[macos-open]: https://support.apple.com/en-gb/guide/mac-help/mh40616/mac
-
-### windows
-
-Download `yarr-*-windows64.zip`, unzip it, open `yarr.exe`, click the anchor system tray icon, select "Open".
-
-### linux
-
-Download `yarr-*-linux64.zip`, unzip it, place `yarr` in `$HOME/.local/bin`
-and run [the script](etc/install-linux.sh).
-
-For self-hosting, see `yarr -h` for auth, tls & server configuration flags.
-For building from source code, see [build.md](build.md)
-
-## credits
-
-[Feather](http://feathericons.com/) for icons.
+`go install -release github.com/hades300/yarr/src@latest` then you will find the binary in `$GOPATH/bin`, run any where u want
